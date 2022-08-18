@@ -17,22 +17,19 @@ function logWhisper(string) {
 logWhisper(hello);
 
 function sayHiToHeadphonedRoommate(string){
-    if (string===string.toLowerCase());{
-        return "hello , I can't hear you";
+    if (string===string.toLowerCase()){
+        return "I can't hear you!";
 
 
     }
-    function sayHiToHeadphonedRoommate(string){
-    if (string===string.toUpperCase());{
-        return "YES INDEED"}
+else if (string===string.toUpperCase()){
+        return "YES INDEED!"}
 
-    function sayHiToHeadphonedRoommate(string)
-    if("let's have dinner"()){
-        return "I would love to";}
+    
+   else if("let's have dinner"){
+        return "I would love to!";}
     
     
    
     
 }
-
-    }
